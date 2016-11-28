@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="../css/normalize.css">
     <link rel="stylesheet" href="../css/skeleton.css">
-    <link rel="stylesheet" href="../css/animalstyle.css">
+    <link rel="stylesheet" href="../css/animalStyle.css">
     <title>Noah's Ark </title>
 </head>
 
@@ -35,7 +35,7 @@
 
     <br/>
     <div class="row u-max-full-width formText">
-        <form action="/listPage.jsp" method="get">
+        <form action="/img/listPage.jsp" method="get">
             <fieldset class="offset-by-four six columns">
                 <legend><h3>Search for Animal:</h3></legend>
 
