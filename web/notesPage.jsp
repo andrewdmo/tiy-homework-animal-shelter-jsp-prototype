@@ -21,7 +21,7 @@
     <br/>
     <div class="row bodyText">
         <div class="six columns">
-            <a class="button button-primary" name="List" href="index.jsp" style="width: 100%">List Critter</a>
+            <a class="button button-primary" name="List" href="../index.jsp" style="width: 100%">List Critter</a>
         </div>
         <div class="six columns">
             <a class="button button-primary" name="Create" href="createPage.jsp" style="width: 100%">Create Critter</a>

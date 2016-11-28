@@ -20,7 +20,7 @@
     </div><!--row-->
     <div class="row u-max-full-width bodyText">
         <div class="twelve columns u-full-width" align="center" style="padding: 5%">
-            <img src="../img/noah.jpg" width="85%">/Users/andrewdmo/Projects/tiy-homework-animal-shelter-jsp-prototype/src/main/webapp/img
+            <img src="/img/noah.jpg" width="85%">/Users/andrewdmo/Projects/tiy-homework-animal-shelter-jsp-prototype/src/main/webapp/img
         </div>
         <br/>
     </div><!--row-->

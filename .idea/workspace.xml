@@ -2,11 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadb58bb-815c-4506-995b-dac060820492" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/img/animalicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/img/noah.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/img/pinkpanther.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/img/puffdragon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/img/tramp.gif" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/createPage.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/css/animalstyle.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/css/skeleton.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/errorPage.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/img/animalicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/img/deadraccoon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/img/noah.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/img/pinkpanther.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/img/puffdragon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/img/tramp.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/listPage.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/tiy_homework_animal_shelter_jsp_prototype_war_exploded/WEB-INF/notesPage.jsp" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/createPage.jsp" afterPath="$PROJECT_DIR$/web/createPage.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/css/animalstyle.css" afterPath="$PROJECT_DIR$/web/css/animalstyle.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/css/normalize.css" afterPath="$PROJECT_DIR$/web/css/normalize.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/css/skeleton.css" afterPath="$PROJECT_DIR$/web/css/skeleton.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/errorPage.jsp" afterPath="$PROJECT_DIR$/web/errorPage.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/img/animalicon.png" afterPath="$PROJECT_DIR$/web/img/animalicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/img/deadraccoon.jpg" afterPath="$PROJECT_DIR$/web/img/deadraccoon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/img/noah.jpg" afterPath="$PROJECT_DIR$/web/img/noah.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/img/pinkpanther.gif" afterPath="$PROJECT_DIR$/web/img/pinkpanther.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/img/puffdragon.gif" afterPath="$PROJECT_DIR$/web/img/puffdragon.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/img/tramp.gif" afterPath="$PROJECT_DIR$/web/img/tramp.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/listPage.jsp" afterPath="$PROJECT_DIR$/web/listPage.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/notesPage.jsp" afterPath="$PROJECT_DIR$/web/notesPage.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tiy-homework-animal-shelter-jsp-prototype.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +53,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="listPage.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/listPage.jsp">
+        <entry file="file://$PROJECT_DIR$/web/listPage.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="735">
               <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
@@ -39,7 +63,7 @@
         </entry>
       </file>
       <file leaf-file-name="createPage.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/createPage.jsp">
+        <entry file="file://$PROJECT_DIR$/web/createPage.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
@@ -49,7 +73,7 @@
         </entry>
       </file>
       <file leaf-file-name="notesPage.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/notesPage.jsp">
+        <entry file="file://$PROJECT_DIR$/web/notesPage.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
@@ -59,7 +83,7 @@
         </entry>
       </file>
       <file leaf-file-name="animalstyle.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/css/animalstyle.css">
+        <entry file="file://$PROJECT_DIR$/web/css/animalstyle.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
@@ -71,7 +95,7 @@
         </entry>
       </file>
       <file leaf-file-name="animalicon.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/img/animalicon.png">
+        <entry file="file://$PROJECT_DIR$/web/img/animalicon.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -88,17 +112,17 @@
         </entry>
       </file>
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/index.jsp">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+            <state relative-caret-position="285">
+              <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="errorPage.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/errorPage.jsp">
+        <entry file="file://$PROJECT_DIR$/web/errorPage.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
               <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
@@ -153,6 +177,7 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/listPage.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/notesPage.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/createPage.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
       </list>
     </option>
   </component>
@@ -241,8 +266,40 @@
               <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemId" value="tiy-homework-animal-shelter-jsp-prototype" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tiy-homework-animal-shelter-jsp-prototype" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tiy-homework-animal-shelter-jsp-prototype" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tiy-homework-animal-shelter-jsp-prototype" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -267,11 +324,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/web/WEB-INF" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
-      <recent name="$PROJECT_DIR$/src/main/webapp" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/css" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp/img" />
@@ -897,12 +954,12 @@
       <option name="presentableId" value="Default" />
       <updated>1479855873403</updated>
       <workItem from="1479855875147" duration="4568000" />
-      <workItem from="1480087470054" duration="4636000" />
+      <workItem from="1480087470054" duration="4958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9204000" />
+    <option name="totallyTimeSpent" value="9526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -928,7 +985,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3389626" sideWeight="0.5772532" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3389626" sideWeight="0.5772532" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32686982" sideWeight="0.49713877" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32825485" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13662376" sideWeight="0.49275362" order="4" side_tool="false" content_ui="combo" />
@@ -961,7 +1018,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/web/WEB-INF/index.jsp</url>
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
           <line>8</line>
           <properties />
         </line-breakpoint>
@@ -975,7 +1032,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/listPage.jsp">
+    <entry file="file://$PROJECT_DIR$/web/listPage.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -983,7 +1040,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/css/animalstyle.css">
+    <entry file="file://$PROJECT_DIR$/web/css/animalstyle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
@@ -1017,7 +1074,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/css/skeleton.css">
+    <entry file="file://$PROJECT_DIR$/web/css/skeleton.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3810">
           <caret line="254" column="4" selection-start-line="254" selection-start-column="4" selection-end-line="254" selection-end-column="4" />
@@ -1033,7 +1090,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/css/normalize.css">
+    <entry file="file://$PROJECT_DIR$/web/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="643">
           <caret line="426" column="1" selection-start-line="426" selection-start-column="1" selection-end-line="426" selection-end-column="1" />
@@ -1044,7 +1101,7 @@
     <entry file="file://$PROJECT_DIR$/src/web.xml" />
     <entry file="file://$PROJECT_DIR$/web/index.jsp" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/css/skeleton.css">
+    <entry file="file://$PROJECT_DIR$/web/css/skeleton.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3225">
           <caret line="215" column="29" selection-start-line="215" selection-start-column="29" selection-end-line="215" selection-end-column="29" />
@@ -1052,7 +1109,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/css/animalstyle.css">
+    <entry file="file://$PROJECT_DIR$/web/css/animalstyle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
@@ -1062,7 +1119,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/img/animalicon.png">
+    <entry file="file://$PROJECT_DIR$/web/img/animalicon.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1091,7 +1148,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/errorPage.jsp">
+    <entry file="file://$PROJECT_DIR$/web/errorPage.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
@@ -1099,7 +1156,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/listPage.jsp">
+    <entry file="file://$PROJECT_DIR$/web/listPage.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
@@ -1107,7 +1164,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/createPage.jsp">
+    <entry file="file://$PROJECT_DIR$/web/createPage.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
@@ -1115,7 +1172,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/notesPage.jsp">
+    <entry file="file://$PROJECT_DIR$/web/notesPage.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
@@ -1123,10 +1180,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/index.jsp">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        <state relative-caret-position="285">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
           <folding />
         </state>
       </provider>
