@@ -71,7 +71,7 @@
                 </tr>
                 <tr>
                     <td>04/2/00
-                    </th>
+                    <br>
                     <td>Harassed by Chester Cheetah</td>
                     <td>
                         <button class="button-primary">Delete</button>
@@ -79,7 +79,7 @@
                 </tr>
                 <tr>
                     <td>10/13/01
-                    </th>
+                    <br>
                     <td>Dyes fur Carolina Panthers blue</td>
                     <td>
                         <button class="button-primary">Delete</button>
